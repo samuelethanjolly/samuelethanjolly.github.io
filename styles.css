@@ -17,18 +17,17 @@ ul.social-links {
 
 .social-links li a {
   display: inline;
-  color: black;
   padding: 8px 16px;
   text-decoration: none;
 }
 
 .social-links li a:hover {
-  background-color: #555555;
-  color: white;
+  background-color: #FFD758;
+  color: black;
 }
 
 footer {
   width: 100%;
-  text-color: white;
+  color: white;
   background-color: black;
 }
