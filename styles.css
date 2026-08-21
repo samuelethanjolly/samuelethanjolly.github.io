@@ -7,6 +7,7 @@ header h1 {
   text-align: center;
   position: relative;
   veritcal-align: top;
+  text-transform: uppercase;
   font-family: "Fraunces"; "Garamond"; serif;
 }
 
@@ -18,6 +19,8 @@ header ul.menu a {
   height: 35px;
   padding: 10px;
   margin: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
   list-style-type: none;
   display: inline-block;
 }
