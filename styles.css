@@ -4,7 +4,7 @@ header {
   display: inline-block;
 }
 
-h1 header {
+header h1 {
   color: white;
   text-align: center;
 }
