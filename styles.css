@@ -1,9 +1,9 @@
 header {
-  background-color: #2C5745;
+  background-color: green;
 }
 
 body {
-  background-color: #EBE3A7;
+  background-color: red;
 }
 
 footer {
@@ -20,5 +20,6 @@ h4 footer {
 
 ul.socials li {
   text-align: center;
+  text-color: yellow;
 }
   
