@@ -22,7 +22,7 @@ header h1 {
   text-transform: uppercase;
   text-decoration: none;
   list-style-type: none;
-  display: inline-block;
+  display: block;
 }
 
 body {
