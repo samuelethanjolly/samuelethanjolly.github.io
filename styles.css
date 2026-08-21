@@ -1,3 +1,7 @@
 body {
   background-colour: #226210;
 }
+
+p {
+  text-align: left;
+}
