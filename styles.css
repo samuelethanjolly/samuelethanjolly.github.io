@@ -47,10 +47,25 @@ h4 footer {
   text-align: center;
 }
 
-ul.socials li {
-  text-align: center;
-  text-color: #483c46;
+ul.socials {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #483c46;
 }
+
+.socials li a {
+  display: block.
+  width: 60px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.socials li a:hover {
+  background-color: #70ae6e;
+  color: #ffffff;
+}
+  
 
 p {
   font-family: "geist-mono"; monospace;
