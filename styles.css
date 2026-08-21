@@ -6,19 +6,19 @@ body {
   background-color: #EBE3A7;
 }
 
-foot {
+footer {
   background-color: #EB7D00;
 }
 
-h3 foot {
+h3 footer {
   text-align: center;
 }
 
-h4 foot {
+h4 footer {
   text-align: center;
 }
 
-li foot {
+ul .socials li {
   width: 300px;
   border: 1px black;
   background-color: white;
