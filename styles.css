@@ -1,5 +1,14 @@
+<!---Large Blocks--->
+header {
+  background-color: blue;
+}
+
 body {
   background-color: green;
+}
+
+footer {
+  background-color: blue;
 }
 
 h3 footer {
