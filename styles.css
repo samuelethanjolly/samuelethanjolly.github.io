@@ -1,12 +1,12 @@
 header {
   background-color: #483c46;
-  color: white;
-  display: inline-block;
 }
 
 header h1 {
   color: white;
   text-align: center;
+  position: relative;
+  veritcal-align: top;
 }
 
 header ul.menu a {
