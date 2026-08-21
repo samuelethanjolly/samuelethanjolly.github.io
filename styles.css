@@ -7,6 +7,7 @@ header h1 {
   text-align: center;
   position: relative;
   veritcal-align: top;
+  font-family: "Fraunces"; "Garamond"; serif;
 }
 
 header ul.menu a {
@@ -41,4 +42,7 @@ ul.socials li {
   text-align: center;
   text-color: #483c46;
 }
+
+p {
+  font-family: "Geist Mono"; monospace;
   
