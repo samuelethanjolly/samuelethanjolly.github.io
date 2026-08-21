@@ -1,6 +1,7 @@
 header {
   background-color: #483c46;
   color: white;
+  display: inline-block;
 }
 
 h1 header {
