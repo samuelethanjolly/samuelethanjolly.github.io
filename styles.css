@@ -17,3 +17,11 @@ h3.footer {
 h4.footer {
   text-align: center;
 }
+
+footer li{
+  width: 300px;
+  border: 1px black;
+  background-color: white;
+  margin: 20px;
+}
+  
