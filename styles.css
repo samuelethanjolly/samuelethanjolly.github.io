@@ -1,7 +1,11 @@
 header {
   background-color: #483c46;
   text-color: #ffffff;
-  }
+}
+
+header h1 {
+  text-color: #ffffff;
+}
 
 body {
   background-color: #ffffff;
