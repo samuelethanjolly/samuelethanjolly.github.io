@@ -18,7 +18,7 @@ h4.footer {
   text-align: center;
 }
 
-footer li{
+li.footer {
   width: 300px;
   border: 1px black;
   background-color: white;
