@@ -8,7 +8,7 @@ header h1 {
   position: relative;
   veritcal-align: top;
   text-transform: uppercase;
-  font-family: "Fraunces"; "Garamond"; serif;
+  font-family: "fraunces"; "garamond"; serif;
 }
 
 header ul.menu a {
@@ -47,5 +47,5 @@ ul.socials li {
 }
 
 p {
-  font-family: "Geist Mono"; monospace;
+  font-family: "geist-mono"; monospace;
   
