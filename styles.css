@@ -9,9 +9,9 @@ h1 header {
 }
 
 header ul.menu a {
-  background-color: #70AE6E;
+  background-color: white;
   text-align: center;
-  color: white;
+  color: #483c46;
   width: 50px;
   height: 35px;
   padding: 10px;
