@@ -10,15 +10,15 @@ footer {
   background-color: #EB7D00;
 }
 
-h3.footer {
+h3 footer {
   text-align: center;
 }
 
-h4.footer {
+h4 footer {
   text-align: center;
 }
 
-li.footer {
+li footer {
   width: 300px;
   border: 1px black;
   background-color: white;
