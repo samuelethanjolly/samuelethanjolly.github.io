@@ -3,3 +3,21 @@ header {
   color: white;
   background-color: black;
 }
+
+ul.social-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-links li a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.social-links li a:hover {
+  background-color: #555555;
+  color: white;
+}
