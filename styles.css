@@ -54,14 +54,14 @@ ul.social-links {
   background-color: #483c46;
 }
 
-.social-links li a {
+ul.social-links li a {
   display: block.
   width: 60px;
   color: #ffffff;
   text-decoration: none;
 }
 
-.social-links li a:hover {
+ul.social-links li a:hover {
   background-color: #70ae6e;
   color: #ffffff;
 }
