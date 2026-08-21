@@ -8,7 +8,7 @@ h1 header {
   text-align: center;
 }
 
-header ul.menu li {
+header ul.menu a {
   background-color: #70AE6E;
   text-align: center;
   color: white;
