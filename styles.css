@@ -1,16 +1,16 @@
 header {
   background-color: #483c46;
-  text-color: #ffffff;
+  color: #ffffff;
 }
 
 header h1 {
-  text-color: #ffffff;
+  color: #ffffff;
 }
 
 header ul.menu li {
   background-color: #70AE6E;
   text-alignment: center;
-  text-color: #ffffff;
+  color: #ffffff;
   width: 50px;
   height: 35px;
   padding: 10px;
