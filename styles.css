@@ -5,6 +5,7 @@ header {
 header h1 {
   color: white;
   text-align: center;
+  font-size: 100%;
   veritcal-align: top;
   text-transform: uppercase;
   font-family: "fraunces"; "garamond"; serif;
