@@ -21,3 +21,9 @@ ul.social-links {
   background-color: #555555;
   color: white;
 }
+
+footer {
+  width: 100%;
+  text-color: white;
+  background-color: black;
+}
