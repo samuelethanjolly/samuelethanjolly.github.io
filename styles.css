@@ -7,6 +7,12 @@ header h1 {
   text-color: #ffffff;
 }
 
+header ul.menu li {
+  background-color: #70AE6E;
+  text-alignment: center;
+  text-color: #ffffff;
+}
+
 body {
   background-color: #ffffff;
 }
