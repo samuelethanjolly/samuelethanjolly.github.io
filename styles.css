@@ -10,7 +10,7 @@ header h1 {
   font-family: "fraunces"; "garamond"; serif;
 }
 
-header ul.menu a {
+header ul.menu li {
   background-color: white;
   text-align: center;
   color: #483c46;
