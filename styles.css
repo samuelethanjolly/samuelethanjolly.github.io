@@ -11,10 +11,10 @@ header ul.menu li {
   background-color: #70AE6E;
   text-align: center;
   color: #ffffff;
-  width: 50px;
-  height: 35px;
-  padding: 10px;
-  margin: 10px;
+  width: "50px";
+  height: "35px";
+  padding: "10px";
+  margin: "10px";
   list-style-type: none;
   display: inline-block;
 }
