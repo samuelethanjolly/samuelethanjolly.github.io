@@ -21,6 +21,9 @@ ul.social-links {
   padding: 8px 16px;
   color: white;
   text-decoration: none;
+  border-style-left: solid;
+  border-width: 1px, 1px, 1px, 4px;
+  border-color: #FFD758;
 }
 
 .social-links li a:hover {
