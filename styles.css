@@ -24,6 +24,7 @@ ul.social-links {
   border-style-left: solid;
   border-width: 1px, 1px, 1px, 4px;
   border-color: #FFD758;
+  margin: 10px, 5px, 5px, 5px;
 }
 
 .social-links li a:hover {
