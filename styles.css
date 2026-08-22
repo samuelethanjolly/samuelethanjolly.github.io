@@ -7,7 +7,9 @@ header {
 ul.social-links {
   border: 1px red;
   list-style-type: none;
-  margin: 0;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 0;
   overflow: hidden;
 }
