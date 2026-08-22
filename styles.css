@@ -5,7 +5,6 @@ header {
 }
 
 ul.social-links {
-  border: 1px red;
   list-style-type: none;
   margin-top: 10px;
   margin-left: 10px;
@@ -21,6 +20,7 @@ ul.social-links {
 .social-links li a {
   display: inline;
   padding: 8px 16px;
+  height: 100px;
   color: white;
   text-decoration: none;
   border-style: solid;
