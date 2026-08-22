@@ -36,11 +36,12 @@ ul.social-links {
 
 footer {
   width: 100%;
+  height: 50px;
   background-color: black;
 }
 
 footer h4 {
   color: white;
-  display: inline-block;
+  display: inline;
   float: right;
 }
