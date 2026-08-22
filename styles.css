@@ -38,3 +38,7 @@ footer {
   width: 100%;
   background-color: black;
 }
+
+footer h4 {
+  color: white;
+}
