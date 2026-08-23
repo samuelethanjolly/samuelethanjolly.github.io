@@ -56,7 +56,7 @@ div.endmatter {
 
 /* Footer Socials */
 
-ul.socials {
+.socials ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
