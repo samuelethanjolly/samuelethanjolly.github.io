@@ -1,7 +1,7 @@
 /* General */
 
 body {
-  background-color: #fff1c2;
+  background-color: #FFF1C2;
 }
 
 * {
@@ -16,7 +16,8 @@ h1 {
 
 header {
   width: 100%;
-  color: white;
+  height: auto;
+  color: #000000;
   background-color: #FFD758;
   font-family: "ubuntu sans mono", monospace;
 }
@@ -37,6 +38,7 @@ ul.menu li a{
 
 footer {
   width: 100%;
+  height: auto;
   background-color: #345A1B;
 }
 
