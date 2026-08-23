@@ -4,6 +4,12 @@ header {
   background-color: black;
 }
 
+ul.menu {
+  list-style-type: none;
+  display: inline;
+  text-decoration: none;
+}
+
 ul.socials {
   list-style-type: none;
   margin-top: 10px;
