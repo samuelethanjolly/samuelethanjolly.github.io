@@ -31,6 +31,25 @@ ul.menu li a{
   display: inline;
   text-decoration: none;
 }
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  background-color: #39A993A
+}
+
+.menu li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+ }
+
+.menu li a:hover {
+  background-color: #FFD758;
+  color: black;
+}
 
 
 /* Main */
