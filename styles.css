@@ -17,6 +17,7 @@ h1 {
 header {
   width: 100%;
   height: auto;
+  position: fixed;
   color: #000000;
   background-color: #FFD758;
   font-family: "ubuntu sans mono", monospace;
