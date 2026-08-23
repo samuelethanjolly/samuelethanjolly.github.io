@@ -4,7 +4,7 @@ header {
   background-color: black;
 }
 
-ul.menu {
+ul.menu li a{
   list-style-type: none;
   display: inline;
   text-decoration: none;
