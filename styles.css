@@ -55,22 +55,18 @@ footer h4 {
 
 ul.socials {
   list-style-type: none;
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 10px;
-  height: 100px;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  background-color: #39A993A
 }
 
 .socials li a {
-  display: inline;
+  display: block;
   color: white;
   text-decoration: none;
-  border-style: solid;
-  border-width-left: 5px;
-  border-color: #FFD758;
-  margin: 10px, 5px, 5px, 5px;
-}
+  text-transform: uppercase;
+ }
 
 .socials li a:hover {
   background-color: #FFD758;
