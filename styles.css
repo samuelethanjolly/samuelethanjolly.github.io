@@ -8,7 +8,7 @@ header {
   width: 100%;
   color: white;
   background-color: black;
-  font-family: "ubuntu sans mono";
+  font-family: "ubuntu sans mono", monospace;
 }
 
 
