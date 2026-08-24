@@ -11,7 +11,7 @@ p.script-category {
   display: inline;
   font-weight: bold;
 
-.script-category:before{
+p.script-category:before{
     content:"\a";
     white-space: pre;
   
