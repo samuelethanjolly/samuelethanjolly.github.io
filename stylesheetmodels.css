@@ -17,6 +17,12 @@ p#script-category:before {
     white-space: pre;
 }
 
+.subject-details p:after {
+  content:"\a";
+  white-s[ace: pre;
+}
+  
+
 h1 {
   font-weight: bold;
   font-size: 28px;
