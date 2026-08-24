@@ -12,7 +12,7 @@ p.script-category {
   font-weight: bold;
 }
 
-p.script-category:before {
+p#script-category:before {
     content: "\a";
     white-space: pre;
 }
