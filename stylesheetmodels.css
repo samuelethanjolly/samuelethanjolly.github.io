@@ -6,3 +6,12 @@ body {
   color: green;
   font-family: courier new, monospace;
 }
+
+p.script-category {
+  display: inline;
+  font-weight: bold;
+
+.script-category:before{
+    content:"\a";
+    white-space: pre;
+  
