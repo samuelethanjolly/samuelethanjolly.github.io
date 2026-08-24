@@ -10,8 +10,14 @@ body {
 p.script-category {
   display: inline;
   font-weight: bold;
+}
 
-p.script-category:before{
-    content:"\a";
+p.script-category:before {
+    content: "\a";
     white-space: pre;
-  
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 28px;
+}
