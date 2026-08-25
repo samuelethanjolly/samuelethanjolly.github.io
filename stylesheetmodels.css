@@ -12,7 +12,7 @@ body {
     0deg,
     rgba(0, 255, 0, 0.1) 0,
     rgba(0, 255, 0, 0.2) 2px,
-    transparent 4px
+    transparent 10px
   );
   animation: rain 10s linear infinite;
   z-index: 1; /* Place it behind the text */
