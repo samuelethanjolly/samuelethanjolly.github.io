@@ -1,24 +1,7 @@
-.crt {
-  background: linear-gradient(to top, #000000, #000000, #5CAB65, #5CAB65);
-  background-size: cover;
-  background-size: 100% 1px;
+* {
+  color: white;
+  text-shadow: 0, 0, 10px, #39ff14
 }
 
-@media screen{
-  .crt {
-    animation: scanlines infinite 55s linear ;
-  }
-  
-} 
-@keyframes scanlines {
-  from {
-    background-position: 0 0;
-  }
-  to {
-    background-position: 0 -10px;
-  }
-}
-
-p {
-  color: green;
-}
+body {
+  background-color: black;
