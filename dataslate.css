@@ -8,6 +8,7 @@
   .crt {
     animation: scanlines infinite 55s linear ;
   }
+  
 } 
 @keyframes scanlines {
   from {
