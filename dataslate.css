@@ -5,3 +5,22 @@
 
 body {
   background-color: black;
+
+.crt {
+  background: linear-gradient (to top, #000000, #000000, #333333, #333333);
+  background-size: 100% 1p;
+}
+
+@media screen{
+  .crt {
+    animation: scanlines infinite 55s linear ;
+  }
+} 
+@keyframes scanlines {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 0 -10px;
+  }
+}
