@@ -1,7 +1,7 @@
 header {
   border: solid 2px red;
   width: auto;
-  display: box-line;
+  display: box-inline;
 }
 
 footer {
