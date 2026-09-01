@@ -1,3 +1,12 @@
 footer {
   border: solid 2px red;
+  width: auto;
+}
+
+ul.social {
+  width: 100px;
+}
+
+ul.social li {
+  background-color: green;
 }
