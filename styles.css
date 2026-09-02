@@ -13,7 +13,7 @@ main {
 footer {
   border: solid 2px red;
   width: auto;
-  position: relative bottom;
+  position: absolute bottom;
 }
 
 ul.social {
