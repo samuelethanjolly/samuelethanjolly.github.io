@@ -13,12 +13,12 @@ main {
 footer {
   border: solid 2px red;
   width: auto;
-  display: box-inline;
 }
 
 ul.social {
   width: 100px;
   border: solid 2px red;
+  display: inline-block;
 }
 
 ul.social li a{
