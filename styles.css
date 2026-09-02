@@ -1,7 +1,9 @@
 header {
   border: solid 2px red;
   width: auto;
-  display: box-inline;
+  display: inline-block;
+  top: 0;
+  left: 0;
 }
 
 main {
