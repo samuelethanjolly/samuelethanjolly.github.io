@@ -18,8 +18,10 @@ footer {
 
 ul.social {
   width: 100px;
+  border: solid 2px red;
 }
 
-ul.social li {
+ul.social li a{
   background-color: green;
+  border: solid 2px red;
 }
