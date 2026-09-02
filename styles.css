@@ -1,7 +1,6 @@
 header {
   border: solid 2px red;
-  width: auto;
-  display: inline-block;
+  width: 100%;
   top: 0;
   left: 0;
 }
