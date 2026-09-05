@@ -23,12 +23,12 @@ footer {
   display: inline-block;
 }
 
-ul.social {
+ul.socials {
   border: solid 2px red;
   display: inline-block;
 }
 
-ul.social li a{
+ul.socials li a{
   background-color: green;
   border: solid 2px red;
 }
